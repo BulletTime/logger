@@ -1,4 +1,7 @@
 # Logger
+[![Build Status](https://travis-ci.org/BulletTime/logger.svg?branch=master)](https://travis-ci.org/BulletTime/logger)
+[![GoDoc](https://godoc.org/github.com/BulletTime/logger?status.svg)](https://godoc.org/github.com/BulletTime/logger)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BulletTime/logger/blob/master/LICENSE)
 
 A Go package that extends the built-in _log_ package. It enables the user to log to either or both a file and standard output or standard error. The user can also enable 4 different types of loggers (Debug, Info, Warning and Error).
 
